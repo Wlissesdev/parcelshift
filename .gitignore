@@ -1,0 +1,19 @@
+# Dependências e builds
+node_modules/
+
+# Artefatos do Roblox / Rojo
+*.rbxl
+*.rbxlx
+*.rbxl.lock
+*.rbxm
+*.rbxmx
+sourcemap.json
+
+# Ferramentas
+.aftman/
+.rokit/
+Packages/
+
+# Sistema
+.DS_Store
+Thumbs.db
